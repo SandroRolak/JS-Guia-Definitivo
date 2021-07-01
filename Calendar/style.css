@@ -1,0 +1,40 @@
+.output {
+    height: auto;
+    overflow: auto;
+}
+
+.output ul {
+    padding-left: 50px;
+  }
+  
+  .output li {
+    display: block;
+    float: left;
+    width: 25%;
+    border: 2px solid white;
+    padding: 5px;
+    height: 50px;
+    background-color: #4A2DB6;
+    color: white;
+    border-radius: 5%;
+  }
+  
+  html {
+    font-family: sans-serif;
+  }
+  
+  h2 {
+    font-size: 16px;
+   }
+  
+  .a11y-label {
+    margin: 0;
+    text-align: right;
+    font-size: 0.7rem;
+    width: 98%;
+  }
+  
+  body {
+    margin: 10px;
+    background: rgba(109, 57, 230, 0.274);
+  }
